@@ -1,5 +1,5 @@
 ---
-new_page_extension: md
+new_page_extension: html
 auto_deploy: false
 admin_path: https://app.forestry.io/sites/r7uujbmsn6zi6a
 webhook_url: 
